@@ -18,6 +18,7 @@ Meu nome é **João Vitor Garcia Aguiar Mintz**, sou estudante de **Ciência da 
   <img align ="center" alt="Docker_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
   <img align ="center" alt="Gitlab_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
   <img align ="center" alt="Github_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img align ="center" alt="Linux_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 ##
