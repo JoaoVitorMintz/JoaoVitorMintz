@@ -1,6 +1,6 @@
 ## 👋 Sobre mim
 
-Meu nome é **João Vitor Garcia Aguiar Mintz**, sou estudante de **Ciência da Computação** pela **Universidade Presbiteriana Mackenzie**. Atualmente, trabalho no projeto [**Intêrpret**](https://computacao.mackenzie.br/mackleaps/projetos/interpret/) do laboratório **MackLEAPS** focado no desenvolvimento de **BFF (Backend for Frontend)** com implementação de **medidas de segurança** e **boas práticas**.
+Meu nome é **João Vitor Garcia Aguiar Mintz**, sou estudante de **Ciência da Computação** pela **Universidade Presbiteriana Mackenzie**. Trabalhei no projeto [**Intêrpret**](https://computacao.mackenzie.br/mackleaps/projetos/interpret/) do laboratório **MackLEAPS** focado no desenvolvimento de **BFF (Backend for Frontend)** com implementação de **medidas de segurança** e **boas práticas**. Atualmente, trabalho como estagiário da Huawei no setor de redes wireless, realizando análise de dados e automação de processos por meio da linguagem Python.
 
 ##
 
