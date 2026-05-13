@@ -1,6 +1,6 @@
 ## 👋 Sobre mim
 
-Meu nome é **João Vitor Garcia Aguiar Mintz**, sou estudante de **Ciência da Computação** pela **Universidade Presbiteriana Mackenzie**. Trabalhei no projeto [**Intêrpret**](https://computacao.mackenzie.br/mackleaps/projetos/interpret/) do laboratório **MackLEAPS** focado no desenvolvimento de **BFF (Backend for Frontend)** com implementação de **medidas de segurança** e **boas práticas**. Atualmente, trabalho como estagiário da Huawei no setor de redes wireless, realizando análise de dados e automação de processos por meio da linguagem Python.
+Meu nome é **João Vitor Garcia Aguiar Mintz**, sou estudante de **Ciência da Computação** pela **Universidade Presbiteriana Mackenzie**. Trabalhei no projeto [**Intêrpret**](https://computacao.mackenzie.br/mackleaps/projetos/interpret/) do laboratório **MackLEAPS** focado no desenvolvimento de **BFF (Backend for Frontend)** com implementação de **medidas de segurança** e **boas práticas**. Também trabalhei como estagiário da Huawei Brazil no setor de ICT Consulting & System Integration desenvolvendo scripts Python para automação de processos e análise de dados, dando suporte à equipe. Neste estágio, meu foco foi desenvolvimento de scripts de melhor eficiência por meio de algoritmos e paralelização.
 
 ##
 
@@ -31,9 +31,11 @@ Meu nome é **João Vitor Garcia Aguiar Mintz**, sou estudante de **Ciência da 
 
 ##
 
-<div><br>
+<div>
   <a href="https://github.com/JoaoVitorMintz">
-  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=JoaoVitorMintz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorMintz&layout=compact&langs_count=16&theme=material-palenight&cache_seconds=1800"/>
+    <img height="150em"
+         src="https://github-readme-stats.vercel.app/api?username=JoaoVitorMintz&show_icons=true&theme=material-palenight&v=1" />
+    <img height="150em"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVitorMintz&layout=compact&langs_count=16&theme=material-palenight&v=1" />
+  </a>
 </div>
-
