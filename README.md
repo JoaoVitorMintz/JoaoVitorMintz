@@ -1,21 +1,11 @@
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=venom&height=220&text=JO%C3%83O%20VITOR%20MINTZ&fontSize=42&fontColor=f5f3ff&stroke=0&section=header&animation=fadeIn&desc=CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O&descAlignY=68&descSize=18&descAlign=50&color=0:0b0714,25:1b1030,55:3b1f63,100:140b24"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=venom&height=220&text=JO%C3%83O%20VITOR%20MINTZ&fontSize=42&fontColor=ffffff&stroke=0&section=header&animation=fadeIn&desc=CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O&descAlignY=68&descSize=18&descAlign=50&color=0:f3ecff,30:e9ddff,65:d6c2ff,100:c4a7ff"
-    />
-    <img
-      src="https://capsule-render.vercel.app/api?type=venom&height=220&text=JO%C3%83O%20VITOR%20MINTZ&fontSize=42&fontColor=f5f3ff&stroke=0&section=header&animation=fadeIn&desc=CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O&descAlignY=68&descSize=18&descAlign=50&color=0:0b0714,25:1b1030,55:3b1f63,100:140b24"
-      width="100%"
-      alt="Banner lilás escuro com o nome João Vitor Mintz"
-    />
-  </picture>
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=JO%C3%83O%20VITOR%20MINTZ&fontSize=42&fontColor=f5f3ff&stroke=0&section=header&animation=fadeIn&desc=CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O&descAlignY=68&descSize=18&descAlign=50&color=4c2b78"
+    width="100%"
+    alt="Banner venom roxo escuro"
+  />
 </div>
----
+
 
 ## Sobre mim
 
@@ -88,5 +78,3 @@ Parallel Computing   • Eficiência • Algoritmos • Otimização
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorMintz&show_icons=true&theme=transparent&title_color=a78bfa&text_color=e9ddff&icon_color=8b5cf6&border_color=31224d&bg_color=00000000" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVitorMintz&layout=compact&langs_count=8&theme=transparent&title_color=a78bfa&text_color=e9ddff&border_color=31224d&bg_color=00000000" />
 </p>
-
----
