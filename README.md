@@ -1,25 +1,29 @@
-<div align="center" style="position: relative; width: 100%; overflow: hidden;">
-  <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenViNTFvYjltOTg0NGFlejc4bTMzZDd5ODNtZm5ibXFjdTVuODZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BztG2ZlPnfbqa0dPiD/giphy.gif" alt="Galaxy GIF" width="70%" 
-  />
-
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
-    <h1 style="font-size: 56px; font-weight: 800; margin: 0; letter-spacing: 0.12em; color: #f5f3ff; text-shadow: 0 0 12px #8b5cf6, 0 0 24px #8b5cf6;">
-      JOÃO VITOR MINTZ
-    </h1>
-    <p style="font-size: 20px; font-weight: 600; margin: 8px 0 0 0; letter-spacing: 0.28em; color: #d8ccff; text-shadow: 0 0 10px #a78bfa;">
-      CIÊNCIA DA COMPUTAÇÃO
-    </p>
-  </div>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=venom&height=220&text=JO%C3%83O%20VITOR%20MINTZ&fontSize=42&fontColor=f5f3ff&stroke=0&section=header&animation=fadeIn&desc=CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O&descAlignY=68&descSize=18&descAlign=50&color=0:0b0714,25:1b1030,55:3b1f63,100:140b24"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=venom&height=220&text=JO%C3%83O%20VITOR%20MINTZ&fontSize=42&fontColor=ffffff&stroke=0&section=header&animation=fadeIn&desc=CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O&descAlignY=68&descSize=18&descAlign=50&color=0:f3ecff,30:e9ddff,65:d6c2ff,100:c4a7ff"
+    />
+    <img
+      src="https://capsule-render.vercel.app/api?type=venom&height=220&text=JO%C3%83O%20VITOR%20MINTZ&fontSize=42&fontColor=f5f3ff&stroke=0&section=header&animation=fadeIn&desc=CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O&descAlignY=68&descSize=18&descAlign=50&color=0:0b0714,25:1b1030,55:3b1f63,100:140b24"
+      width="100%"
+      alt="Banner lilás escuro com o nome João Vitor Mintz"
+    />
+  </picture>
 </div>
-
 ---
 
 ## Sobre mim
 
-Sou **João Vitor Garcia Aguiar Mintz**, estudante de **Ciência da Computação** na **Universidade Presbiteriana Mackenzie**. Atuei no projeto [**Intêrpret**](https://computacao.mackenzie.br/mackleaps/projetos/interpret/) no laboratório **MackLEAPS**, com foco em **BFF (Backend for Frontend)**, medidas de segurança e boas práticas.
+Sou **João Vitor Garcia Aguiar Mintz**, estudante de **Ciência da Computação** na **Universidade Presbiteriana Mackenzie**.
 
-Também trabalhei como estagiário na **Huawei Brazil** em **ICT Consulting & System Integration**, desenvolvendo scripts em **Python** para automação de processos, análise de dados e ganho de eficiência com algoritmos e paralelização.
+Atuei no projeto [**Intêrpret**](https://computacao.mackenzie.br/mackleaps/projetos/interpret/) no laboratório **MackLEAPS**, com foco em **BFF (Backend for Frontend)**, segurança e boas práticas de desenvolvimento.
+
+Também fui estagiário na **Huawei Brazil**, em **ICT Consulting & System Integration**, desenvolvendo scripts em **Python** para automação de processos, análise de dados e otimização de eficiência com algoritmos e paralelização.
 
 ---
 
