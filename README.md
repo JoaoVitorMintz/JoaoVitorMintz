@@ -6,11 +6,6 @@
   />
 </div>
 
-<p align="center">
-  <a href="#-sobre-mim">PT-BR</a> -  <a href="#-about-me">EN</a>
-</p>
-
-
 ## Sobre mim
 
 Sou **João Vitor Garcia Aguiar Mintz**, estudante de **Ciência da Computação** na **Universidade Presbiteriana Mackenzie**.
