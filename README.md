@@ -1,41 +1,88 @@
-## 👋 Sobre mim
+<div align="center" style="position: relative; width: 100%; overflow: hidden;">
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenViNTFvYjltOTg0NGFlejc4bTMzZDd5ODNtZm5ibXFjdTVuODZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BztG2ZlPnfbqa0dPiD/giphy.gif" alt="Galaxy GIF" width="70%" 
+  />
 
-Meu nome é **João Vitor Garcia Aguiar Mintz**, sou estudante de **Ciência da Computação** pela **Universidade Presbiteriana Mackenzie**. Trabalhei no projeto [**Intêrpret**](https://computacao.mackenzie.br/mackleaps/projetos/interpret/) do laboratório **MackLEAPS** focado no desenvolvimento de **BFF (Backend for Frontend)** com implementação de **medidas de segurança** e **boas práticas**. Também trabalhei como estagiário da Huawei Brazil no setor de ICT Consulting & System Integration desenvolvendo scripts Python para automação de processos e análise de dados, dando suporte à equipe. Neste estágio, meu foco foi desenvolvimento de scripts de melhor eficiência por meio de algoritmos e paralelização.
-
-##
-
-### Linguagens:
-<div style="display: inline_block")>
-  <img align ="center" alt="Java_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align ="center" alt="C_Icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align ="center" alt="Python_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align ="center" alt="Cpp_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+    <h1 style="font-size: 56px; font-weight: 800; margin: 0; letter-spacing: 0.12em; color: #f5f3ff; text-shadow: 0 0 12px #8b5cf6, 0 0 24px #8b5cf6;">
+      JOÃO VITOR MINTZ
+    </h1>
+    <p style="font-size: 20px; font-weight: 600; margin: 8px 0 0 0; letter-spacing: 0.28em; color: #d8ccff; text-shadow: 0 0 10px #a78bfa;">
+      CIÊNCIA DA COMPUTAÇÃO
+    </p>
+  </div>
 </div>
 
-### Tecnologias/Ferramentas:
-<div style="display: inline_block")>
-  <img align ="center" alt="Git_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align ="center" alt="Docker_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-  <img align ="center" alt="Gitlab_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
-  <img align ="center" alt="Github_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-  <img align ="center" alt="Linux_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div>
+---
 
-##
+## Sobre mim
 
-### Redes Sociais e Contato:
-<div>
-  <a href="https://www.linkedin.com/in/joaomintz" target="_blank"><img align="center" alt="Ln_Icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a>
-  <a href="mailto:joaomintzz@gmail.com" target="_blank"><img align="center" alt="Ln_Icon" height="40" width="40" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank"></a>
-</div>
+Sou **João Vitor Garcia Aguiar Mintz**, estudante de **Ciência da Computação** na **Universidade Presbiteriana Mackenzie**. Atuei no projeto [**Intêrpret**](https://computacao.mackenzie.br/mackleaps/projetos/interpret/) no laboratório **MackLEAPS**, com foco em **BFF (Backend for Frontend)**, medidas de segurança e boas práticas.
 
-##
+Também trabalhei como estagiário na **Huawei Brazil** em **ICT Consulting & System Integration**, desenvolvendo scripts em **Python** para automação de processos, análise de dados e ganho de eficiência com algoritmos e paralelização.
 
-<div>
-  <a href="https://github.com/JoaoVitorMintz">
-    <img height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=JoaoVitorMintz&show_icons=true&theme=material-palenight&v=1" />
-    <img height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVitorMintz&layout=compact&langs_count=16&theme=material-palenight&v=1" />
+---
+
+## Foco atual
+
+- Desenvolvimento de jogos e protótipos com **Unity**.
+- Estudos em **cibersegurança**, testes de vulnerabilidade e ferramentas para análise.
+- Interesse em **arquitetura de software**, redes e otimização de desempenho.
+
+---
+
+## Stack
+
+<p>
+  <img alt="Java" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="C" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img alt="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="C++" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="C#" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="Git" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Docker" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="GitLab" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+  <img alt="GitHub" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="Linux" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="Unity" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+</p>
+
+---
+
+## Áreas de interesse
+
+```text
+Game Development     • Unity • Mecânicas • Performance
+Cybersecurity        • Vulnerability Analysis • APIs • Networking
+Software Architecture• Design Patterns • Organização • Escalabilidade
+Parallel Computing   • Eficiência • Algoritmos • Otimização
+```
+
+---
+
+## Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/joaomintz" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
-</div>
+  &nbsp;&nbsp;
+  <a href="mailto:joaomintzz@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="E-mail" height="36" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/JoaoVitorMintz" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  </a>
+</p>
+
+---
+
+## GitHub
+
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorMintz&show_icons=true&theme=transparent&title_color=a78bfa&text_color=e9ddff&icon_color=8b5cf6&border_color=31224d&bg_color=00000000" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVitorMintz&layout=compact&langs_count=8&theme=transparent&title_color=a78bfa&text_color=e9ddff&border_color=31224d&bg_color=00000000" />
+</p>
+
+---
